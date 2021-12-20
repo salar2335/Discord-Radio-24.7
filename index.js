@@ -57,6 +57,6 @@ client.on("ready", async () => {
         play(connection)
   })
 
-client.login(token)
+client.login(OTIyNTI4NjQyNjExOTcwMDYw.YcCxwA.gSJkuu9w0zacB8maW6UmRJujPM0)
   
 
